@@ -284,7 +284,7 @@ exports.level = {
           "type": "ModalAlert",
           "options": {
             "markdowns": [
-              "Allez-y et essayez par vous-même ! Après la fermeture de cettefenêtre, faites deux commits pour terminer ce niveau."
+              "Allez-y et essayez par vous-même ! Après la fermeture de cette fenêtre, faites deux commits pour terminer ce niveau."
             ]
           }
         }
